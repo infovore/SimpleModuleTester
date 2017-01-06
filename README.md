@@ -17,6 +17,18 @@ It is based on Tom Whitwell's [Stupid USB Power][stupidusbpower].
 
 [stupidusbpower]: https://github.com/TomWhitwell/StupidUSBPower
 
+## WHY?
+
+Because you shouldn't test a brand new DIY Euro module by plugging it into $$$ of modular synth. You should test it in isolation.
+
+If you don't have a bipolar bench power supply, that can be hard.
+
+This board seeks to help: it gives you some power outlets for both Eurorack modules and 1U Tiles, some input/output tools to debug CV and gate inputs and outputs, and it's easy to run from battery power.
+
+If you want something more sophisticated, [Olivier Gillet's Module Tester][oliviertester] does a whole lot more and is more refined. It's also more expensive and complex to build.
+
+[oliviertester]: https://github.com/pichenettes/module_tester
+
 ## TODO
 
 * add diode/cap/fuse protection
