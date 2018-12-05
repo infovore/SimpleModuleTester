@@ -1,4 +1,6 @@
- 
+# WARNING
+
+**I've never built or tested this. I don't recommend making one of these. It was noodling around.**
 
 # Simple Module Tester
 
